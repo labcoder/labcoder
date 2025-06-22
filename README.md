@@ -2,19 +2,24 @@
 
 
 Current:
-* [@Clever](https://twitter.com/clever)
-    * Working on GetClever
-* Commonly used languages:
-    * Javascript
-    * Go
-
-Past:
 * [@PlayStation](https://twitter.com/playstation)
     * Worked on both PS4 and PS5, spanning different system UI apps and social experiences like PS+, Game Help, Profiles, and more
+    * Now working on something new ;)
     * Commonly used languages:
         * Javascript (Ember / React)
         * C++
         * C#
+Past:
+* [@nianticlabs](https://github.com/nianticlabs)
+    * Worked on multiple web-related projects, modernizing our pokemongo.com website and webstore
+    * Commonly used languages:
+        * Javascript (NextJS)
+        * Java (backend)
+* [@Clever](https://twitter.com/clever)
+    * Led the API team, building and developing our developer APIs for apps building on Clever
+    * Commonly used languages:
+        * Javascript
+        * Go
 * [@Watsi](https://twitter.com/watsi)
     * Worked on building and expanding our donations platform
     * Commonly used languages:
