@@ -9,6 +9,7 @@ Current:
         * Javascript (Ember / React)
         * C++
         * C#
+
 Past:
 * [@nianticlabs](https://github.com/nianticlabs)
     * Worked on multiple web-related projects, modernizing our pokemongo.com website and webstore
